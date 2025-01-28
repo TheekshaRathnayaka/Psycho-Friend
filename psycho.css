@@ -1,0 +1,74 @@
+.bg-img {
+background-image: url("dis-bg.png") ;
+height: 2000px;
+backgruond-size: contain ;
+}
+
+header img {
+height: 180px;
+padding-top: 20px;
+padding-left: 50px;
+}
+
+h1 {
+float:right;
+padding-right: 200px;
+padding-top: 50px;
+font-size: 75px;
+color: 131FD4;
+}
+
+nav {
+background-color:80F9F9 ;
+overflow: hidden;
+width: 100%;
+height: 50px;
+font-size: 25px;
+}
+
+column {
+float: right;
+padding-right: 50px;
+padding-top: 10px;
+}
+
+p {
+font-size: 20px;
+font-family: Times New Roman;
+text-align: justify;
+padding: 15px;
+}
+
+img1 {
+padding-left:70px;
+}
+
+ol {
+column-count:2;
+font-size: 20px;
+font-family: Times New Roman;
+padding-left: 60px;
+}
+
+h2 {
+text-align: center;
+font-size: 50px;
+}
+
+.p1 {
+border-style: solid;
+border-color: 80F9F9;
+border-width: 3px;
+}
+
+ul {
+font-size: 20px;
+font-family: Times New Roman;
+text-align: justify;
+padding-left: 50px;
+padding-right: 20px;
+}
+
+a {
+text-decoration: none;
+}
