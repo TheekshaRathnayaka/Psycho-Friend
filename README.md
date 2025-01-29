@@ -8,3 +8,5 @@ About Us page:
 
 Support section:
 ![GC2](https://github.com/user-attachments/assets/9628cc21-0c0f-4b13-bbd4-960858d3c37d)
+
+Blog section:
